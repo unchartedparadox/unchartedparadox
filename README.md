@@ -14,7 +14,7 @@ LLMs, AI tooling, and Windows virtualization & system administration
 AI/ML, computer vision, Firebase, web apps, and research writing
 
 ⚡ Fun fact
-Gym 6 days a week 🏋️‍♂️, vegetarian 🌱, and still building tech 🚀
+Gym 6 days a week 🏋️‍♂️and still building tech 🚀
 
 
 ## 🌐 Socials:
