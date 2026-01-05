@@ -1,5 +1,20 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>AI-powered web apps using HTML, CSS, JavaScript & Firebase<br><br>Exploring Windows virtualization & system administration<br><br>Personal projects in AI, computer vision, and full-stack development<br><br>👯 I’m looking to collaborate on<br><br>AI/ML projects (computer vision, healthcare AI, OCR, LLM-based tools)<br><br>Open-source web apps and automation tools<br><br>Startups or side projects with real-world impact<br><br>🤝 I’m looking for help with<br><br>Scaling full-stack applications efficiently<br><br>Advanced LLM integrations and deployment (low-cost / free stacks)<br><br>System design for production-ready apps<br><br>🌱 I’m currently learning<br><br>Large Language Models (LLMs) and AI tooling<br><br>Windows virtualization & infrastructure management<br><br>Building scalable, secure web applications<br><br>💬 Ask me about<br><br>Artificial Intelligence & Machine Learning<br><br>Computer Vision (OCR, Medical Imaging, CNNs, U-Net)<br><br>Firebase, web app development, and AI project ideas<br><br>Research writing, papers, and technical presentations<br><br>⚡ Fun fact<br><br>I work out 6 days a week, follow a vegetarian diet, and still manage research, coding, and startups 
+🔭 Currently working on
+AI-powered web apps (HTML, CSS, JS, Firebase) and projects in AI, computer vision & full-stack development
+
+👯 Looking to collaborate on
+AI/ML projects, open-source tools, and real-world startup ideas
+
+🤝 Looking for help with
+Scaling full-stack apps, LLM integration, and production system design
+
+🌱 Currently learning
+LLMs, AI tooling, and Windows virtualization & system administration
+
+💬 Ask me about
+AI/ML, computer vision, Firebase, web apps, and research writing
+
+⚡ Fun fact
+Gym 6 days a week 🏋️‍♂️, vegetarian 🌱, and still building tech 🚀
 
 
 ## 🌐 Socials:
